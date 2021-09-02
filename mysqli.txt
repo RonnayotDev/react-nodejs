@@ -1,0 +1,8 @@
+npm init
+
+
+
+npm i mysqli cors express
+
+
+npm i axios
